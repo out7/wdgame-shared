@@ -1,4 +1,4 @@
-export interface CreateHeroDto {
+export interface CreateHeroInput {
   slug: string;
   base_attack: number;
   base_health: number;
